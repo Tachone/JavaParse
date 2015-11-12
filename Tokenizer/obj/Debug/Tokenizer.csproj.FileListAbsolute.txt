@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Window1.baml
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\App.g.cs
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer_MarkupCompile.cache
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.g.resources
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Documents and Settings\Administrator\My Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 13\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Window1.baml
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Window1.g.cs
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\App.g.cs
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer_MarkupCompile.cache
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.g.resources
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.Properties.Resources.resources
+C:\Users\dell\Downloads\接口设计样例Completed Tokenizer\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.csproj.GenerateResource.Cache
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Window1.baml
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Window1.g.cs
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\App.g.cs
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer_MarkupCompile.cache
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.g.resources
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.Properties.Resources.resources
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.csproj.GenerateResource.Cache
+C:\Users\Tach\Desktop\Completed Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
